@@ -1,0 +1,59 @@
+{
+  "patient": [
+    {
+      "id": "1",
+      "name": "opute obi paul",
+      "phone": "0908",
+      "Medical-record": "yes"
+    },
+    {
+      "id": "2",
+      "name": "paul",
+      "phone": "0908",
+      "Medical-record": "yes"
+    },
+    {
+      "id": "3",
+      "name": "ppute paul",
+      "phone": "0908",
+      "Medical-record": "yes"
+    },
+    {
+      "id": "4",
+      "name": "pute paul",
+      "phone": "0908",
+      "Medical-record": "yes"
+    },
+    {
+      "id": "5",
+      "name": "ute paul",
+      "phone": "0908",
+      "Medical-record": "yes"
+    },
+    {
+      "id": "22ac"
+    },
+    {
+      "id": "6",
+      "name": "meg paul",
+      "phone": "0908",
+      "Medical-record": "yes"
+    },
+    {
+      "id": "7",
+      "name": "uiyy paul",
+      "phone": "0908",
+      "Medical-record": "yes"
+    },
+    {
+      "id": "9187",
+      "fullName": "opute paul obi",
+      "age": "22",
+      "gender": "Female",
+      "phoneNumber": "08079764427",
+      "email": "oputepaulobiash@gmail.com",
+      "address": "No",
+      "medicalHistory": "very bad"
+    }
+  ]
+}
