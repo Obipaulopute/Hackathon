@@ -10,8 +10,8 @@ function Nav() {
             <h2 className="text-2xl font-semibold font-serif text-[#0c1235]">Ministry of Health </h2>
             <ul className="space-x-4">
               <Link to="/appointment" className="font-semibold"> Request appointment </Link>
-              <Link to="/about" className="font-semibold">register </Link>
-              <Link to="admin" className="font-semibold"> Log in </Link>
+              <Link to="#" className="font-semibold">About </Link>
+              <Link to="patientstatus" className="font-semibold"> Log in </Link>
             </ul>
           </div>
         </nav>

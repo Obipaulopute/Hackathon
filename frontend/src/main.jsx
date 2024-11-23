@@ -11,9 +11,9 @@ import Admin from "./pages/Admin";
 import PatientRegistrationForm from "./components/Admin/PatientRegistrationForm";
 import AboutLink from "./components/About/AboutLink";
 import Appointment from "./pages/Appointment";
-import Patientstatus from "./pages/Patientstatus";
 import PatientStatus from "./pages/Patientstatus";
 import PatientProfile from "./pages/Patientprofile";
+import Signup from "./pages/Signup";
 
 
 
@@ -50,10 +50,13 @@ const router = createBrowserRouter([
     element: <PatientStatus />
   },
   {
-    path: 'PatientProfile',
+    path: '/PatientProfile',
     element:<PatientProfile />
+  },
+  {
+    path: '/signup',
+    element:<Signup />
   }
-
 
 ]);
 
